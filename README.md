@@ -1,2 +1,3 @@
-# decision
-Reglas de decision
+# Decision
+
+Aplicacion de reglas de decision
